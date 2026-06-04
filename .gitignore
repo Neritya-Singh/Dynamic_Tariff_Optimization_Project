@@ -1,0 +1,18 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints
+
+# Data files (Large Datasets)
+*.json
+*.csv
+*.tsv
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.hdf5
+*.h5
+
+# Virtual environments
+ml_env/
+.ml_env/
