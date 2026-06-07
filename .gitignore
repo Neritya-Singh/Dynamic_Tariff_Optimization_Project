@@ -5,3 +5,6 @@
 # Virtual environments
 ml_env/
 .ml_env/
+
+# Ignore local VS Code configurations
+.vscode/
